@@ -1,0 +1,11 @@
+name 'timemasheen'
+maintainer 'Ryan Hass'
+maintainer_email 'ryan@invalidchecksum.net'
+license 'apache2'
+description 'Installs/Configures timemasheen'
+long_description 'Installs/Configures timemasheen'
+version '0.1.0'
+
+depends 'git'
+depends 'application_ruby'
+depends 'application_git'
